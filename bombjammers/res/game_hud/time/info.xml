@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timefont>
+<animation>
+	<clip>
+		<width>40</width>
+		<height>64</height>
+	</clip>
+</animation>
+</timefont>

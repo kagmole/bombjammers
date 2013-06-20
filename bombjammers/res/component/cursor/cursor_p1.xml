@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation>
+	<normal>
+		<x>0</x>
+		<y>0</y>
+		<width>60</width>
+		<height>74</height>
+		<number>3</number>
+		<speed>150</speed>
+	</normal>
+</animation>

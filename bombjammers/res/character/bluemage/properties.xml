@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<name>Blue Mage</name>
+	<weight>60</weight>
+	<strength>40</strength>
+	<speed>40</speed>
+	<power_type>classic</power_type>
+</properties>

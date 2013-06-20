@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bomb>
+<animation>
+	<clip>
+		<width>32</width>
+		<height>32</height>
+	</clip>
+	<speed>5</speed>
+</animation>
+</bomb>
