@@ -1,1 +1,9 @@
-# Nothing to ignore for the moment! D= #
+.metadata/
+.recommenders/
+
+bombjammers/.settings/
+bombjammers/bin/
+bombjammers/lib/
+
+bombjammers/.classpath
+bombjammers/.project
